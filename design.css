@@ -1,0 +1,9 @@
+button {
+    background-color:brown;
+    font-weight: bold;
+    font-size: 8px;
+    height: 70px;
+    width: 70px;
+    padding: 5px;
+    margin: 5px;
+}
